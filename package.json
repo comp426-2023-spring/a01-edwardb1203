@@ -1,0 +1,22 @@
+{
+  "name": "a1-webserver",
+  "version": "1.0.0",
+  "description": "webserver project for comp426",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a01-edwardb1203.git"
+  },
+  "author": "edwardb1203",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a01-edwardb1203/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a01-edwardb1203#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
